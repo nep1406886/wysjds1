@@ -1,0 +1,3 @@
+/foldername/
+
+1.txt
